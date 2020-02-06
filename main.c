@@ -1,3 +1,4 @@
+//Toute aide pour les caractères en UTF-8 sera la bienvenue
 #include <stdio.h>
 int op;
 char rep;
